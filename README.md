@@ -81,4 +81,4 @@ docker compose up -d
 
     ya da
 
-- https://Sunucu_IO:3011/
+- https://Sunucu_IP:3011/
